@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/theme2</color>
+    <color name="colorPrimaryDark">@color/theme3</color>
+    <color name="colorAccent">#EF5350</color>
+
+    <color name="theme1">#ffc77d</color>
+    <color name="theme2">#ff8d00</color>
+    <color name="theme3">#fa8100</color>
+
+    <color name="toolbar">#fff</color>
+    <color name="bottomBar">#fff</color>
+    <color name="loading">#FFFFFF</color>
+</resources>

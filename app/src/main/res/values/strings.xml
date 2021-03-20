@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FYP</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_facility">Facility</string>
+    <string name="menu_book">Booking</string>
+    <string name="menu_mybook">My Booking</string>
+    <string name="btn_Submit">Submit</string>
+    <string name="title_detail">Detail</string>
+    <string name="title_Booking">Booking</string>
+    <string name="title_My_Booking">My Booking</string>
+    <string name="title_Facility">Facility</string>
+    <string name="book_date">Available date</string>
+    <string name="book_distract">Distract</string>
+    <string name="book_time">Time</string>
+    <string name="book_type">Type</string>
+    <string name="facility_search">Search</string>
+    <string name="error_general">Error</string>
+    <string name="alert_submit">Are you sure to submit?</string>
+</resources>

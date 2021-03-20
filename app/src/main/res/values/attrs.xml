@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BarItem">
+        <attr name="iconDrawableOff" format="reference" />
+        <attr name="iconDrawableOn" format="reference" />
+        <attr name="selectedBackground" format="reference" />
+        <attr name="defaultBackground" format="reference" />
+        <attr name="lottieRaw" format="reference" />
+        <attr name="menuLayoutId" format="reference" />
+        <attr name="textColorDefault" format="color" />
+        <attr name="textColorSelected" format="color" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+
+
+</resources>
